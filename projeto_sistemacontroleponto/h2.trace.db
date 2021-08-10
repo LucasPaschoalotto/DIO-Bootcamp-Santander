@@ -1,0 +1,30 @@
+2021-08-07 18:14:45 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+select * from jornada [42102-200]
+2021-08-07 18:14:58 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * FROM JORNADA [42102-200]
+2021-08-07 18:15:14 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * from JORNADA [42102-200]
+2021-08-07 18:15:14 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * from JORNADA [42102-200]
+2021-08-07 18:15:15 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * from JORNADA [42102-200]
+2021-08-07 18:15:15 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * from JORNADA [42102-200]
+2021-08-07 18:15:15 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * from JORNADA [42102-200]
+2021-08-07 18:15:15 jdbc[14]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "JORNADA" not found; SQL statement:
+SELECT * from JORNADA [42102-200]
+2021-08-07 18:19:07 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DROP *[*] FROM JORNADA_TRABALHO"; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE, SYNONYM"; SQL statement:
+DROP * FROM JORNADA_TRABALHO [42001-200]
+2021-08-07 18:19:13 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Syntax error in SQL statement "DELETE *[*] FROM JORNADA_TRABALHO"; expected "identifier"; SQL statement:
+DELETE * FROM JORNADA_TRABALHO [42001-200]
